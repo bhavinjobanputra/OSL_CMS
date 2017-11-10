@@ -19,6 +19,8 @@ To get familiar from CMS a simple blog for BITCOIN is made with the WORDPRESS wh
 
 Site Link:
 	http://iste-itnu.com/osl_14bce038/
+	
+Screenshots are uploaded.
 
 
 
